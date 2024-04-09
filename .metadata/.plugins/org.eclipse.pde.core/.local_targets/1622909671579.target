@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?pde version="3.8"?><target name="Apéndice de WebSphere Application Server v8.5" sequenceNumber="0">
+<locations>
+<location path="C:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev" type="Directory"/>
+<location path="C:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev/JavaEE" type="Directory"/>
+<location path="C:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev/sip" type="Directory"/>
+<location path="C:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev/osgi/4.2" type="Directory"/>
+<location path="D:/6to_CI/Taller de Programacion Web(Java)/CiberElectrik/.metadata/.plugins/com.ibm.etools.aries.core/system/" type="Directory"/>
+</locations>
+</target>

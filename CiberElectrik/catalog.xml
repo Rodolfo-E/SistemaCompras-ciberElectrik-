@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:49199/BuscarCliente.asmx?wsdl" uri="src/conf/xml-resources/web-service-references/BuscarCliente/wsdl/localhost_49199/BuscarCliente.asmx.wsdl"/>
+    <system systemId="http://localhost:51143/Reniec.asmx?wsdl" uri="src/conf/xml-resources/web-service-references/Reniec/wsdl/localhost_51143/Reniec.asmx.wsdl"/>
+    <system systemId="http://localhost:51143/Reniec.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/Reniec/wsdl/localhost_51143/Reniec.asmx.wsdl"/>
+</catalog>

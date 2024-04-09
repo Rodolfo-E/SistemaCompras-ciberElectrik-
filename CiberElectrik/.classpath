@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="build/generated/jax-wsCache/BuscarCliente"/>
+	<classpathentry kind="src" path="build/generated/jax-wsCache/Reniec"/>
+	<classpathentry kind="src" path="build/generated-sources/jax-ws"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/1.- jasperreports-javaflow-4.7.1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/10.- groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/11.- iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/2.- jasperreports-4.7.1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/3.- png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/4.- poi-3.7.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/5.- commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/6.- commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/7.- commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/8.- commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/9.- commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/jstl-api.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
